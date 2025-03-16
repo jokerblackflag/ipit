@@ -15,4 +15,3 @@ By using IPIT, you acknowledge and agree that:
 IPIT is created for those who approach security from an educational and research-driven perspective. Thoughtful and informed exploration of security concepts is encouraged.
 
 By downloading, installing, or using IPIT, you accept full responsibility for your actions and their potential impact.
-
